@@ -1,0 +1,136 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Lords Justices, a proclamation for putting in execution the laws and statues of this realm, for the preventing the exportation of wooll, wooll-fells, woollen yarn, morthings, shorlings, wooll-flocks, fullers earth, fulling clay, and tobacco-pipe clay out of this kingdom.</title>
+            <author>England and Wales. Lords Justices.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39506</idno>
+            <idno type="STC">Wing E954</idno>
+            <idno type="STC">ESTC R39449</idno>
+            <idno type="EEBO-CITATION">18419668</idno>
+            <idno type="OCLC">ocm 18419668</idno>
+            <idno type="VID">107526</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39506)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107526)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1632:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Lords Justices, a proclamation for putting in execution the laws and statues of this realm, for the preventing the exportation of wooll, wooll-fells, woollen yarn, morthings, shorlings, wooll-flocks, fullers earth, fulling clay, and tobacco-pipe clay out of this kingdom.</title>
+                  <author>England and Wales. Lords Justices.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Charles Bill, and the executrix of Thomas Newcomb ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Given at Whitehall, the twenty ninth day of September, 1698,  in the tenth year of His Majesties reign."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Proclamations --  Great Britain.</term>
+               <term>Restraint of trade --  England.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:107526:1" rendition="simple:additions"/>
+            <head>By the Lords Juſtices, A PROCLAMATION, For Putting in Execution the Laws and Statutes of this Realm, for the Preventing the Exportation of Wooll, Wooll-Fells, Woollen Yarn, Morthings, Shorlings, Wooll-Flocks, Fullers Earth, Fulling Clay, and Tobacco-Pipe Clay out of this Kingdom.</head>
+            <opener>
+               <signed>Tho. Cantuar. Sommers C. Dorſett, Romney, Cha. Montague.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas many Good Laws have been made for Preventing the Tranſportation of Wooll, Wooll-Fells, Morthings, Shorlings, Wollen Yarn, Wooll-Flocks, Fullers Earth and Fulling Clay out of the Realm of <hi>England,</hi> Dominion of <hi>Wales,</hi> and Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> or any the Iſles, Ports, Creeks or Places thereof, into the Kingdom of <hi>Scotland,</hi> or other Parts beyond the Seas, under the Penalties of Forfeiting Three Shillings for every Pound Weight of the Commodity ſo Exported, and of Forfeiting ſuch Wooll, or other Commodities, and the Horſes, Cattel, Carriages, Ship and Veſſel, Imployed in the Carrying the ſame, and Treble the Value of the Wooll, or other the ſaid Commodities, is Caſe ſuch Wooll or other Commodity exceed Ten Pounds in Value, otherwiſe the Sum of Twenty Pounds, to be Recovered of the Inhabitants of the reſpective Hundreds next Adjoyning to the ſaid Kingdom of <hi>Scotland,</hi> or to the Sea Coaſt out of or through which any Wooll, or any other of the Commodities aforeſaid, ſhall be Carried or Exported, by ſuch Perſon as will Sue for the ſame, and of Three Years Impriſonment without Bail or Mainprize, up<g ref="char:EOLhyphen"/>on any Perſon or Perſons who ſhall be Aiding, Abetting or Aſſiſting the Carrying or Tranſporting any ſuch Wooll, or other the Com<g ref="char:EOLhyphen"/>modities aforeſaid, and under ſeveral other Penalties and Forfeitures in the ſaid Laws and Statutes contained. And whereas for the Incouragement of ſuch Perſons who ſhall make Diſcovery of any the ſaid Offences, ſeveral Rewards are Appointed by the ſaid Acts <hi>(viz.)</hi> the Treble Value of the Wooll, and other the ſaid Commodities Tranſported, in Caſe the ſame be of greater Value than Ten Pounds, and the Sum of Twenty Pounds in Caſe the ſaid Wooll, ſo Tranſported, be under the Value of Ten Pounds; which Pe<g ref="char:EOLhyphen"/>nalties are by the ſaid Laws to be Recovered of the Inhabitants of the reſpective Hundreds aforeſaid, for the ſole Vſe and Benefit of ſuch Perſon as will Sue for the ſame, together with Treble Coſts of Suit. And for the further Incouragement of Perſons to Diſ<g ref="char:EOLhyphen"/>cover the ſaid Offences, It is by the ſaid Laws Provided, That the Firſt Three Perſons who have been Aiding, Abetting or Aſſiſting in Carrying out or Exportation of Wooll, or any other the Commodities aforeſaid, that ſhall Inform thereof any Iuſtice of the Peace in either of the ſeveral Counties next Adjoyning to the Kingdom of <hi>Scotland,</hi> or to the Sea Coaſt, whereby the Puniſhment and Penalties thereby Appointed, may be Inflicted and Recovered, the Party or Parties ſo Diſcovering, not being Owner or Part Owners of the ſaid Wooll, or other Commodities aforeſaid, ſhall not ſuf<g ref="char:EOLhyphen"/>fer any of the ſaid Penalties or Puniſhments. And whereas by an Act made the Laſt Seſſion of Parliament, Intituled, <hi>An Act for the Explanation and better Execution of former Acts made againſt Tranſportation of Wooll, Fullers Earth and Scouring Clay,</hi> 'Tis amongſt other things Enacted, That after the Twenty fourth Day of <hi>June,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred ninety and eight, no Fullers Earth or Scouring Clay ſhall be Exported out of this Kingdom, Dominion of <hi>Wales,</hi> or Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> into <hi>Ireland, Scotland,</hi> or into any other Foreign Parts upon any Pretence whatſoever, upon Penalty of Forfeiting One Shilling for every Pound Weight ſo Exported: And that all Owners of Wooll Shorn or Laid up within Ten Miles of the Sea ſide, within the Counties of <hi>Kent</hi> and <hi>Suſſex,</hi> ſhall give an Exact Account in Writing, within Three Days after the Shearing thereof, of the Number of Fleeces, and where Lodged or Houſed to the next Adjoyning Port, or Officer of His Majeſties Cuſtoms, and the like Notice before they ſhall Remove any Part thereof, of the ſaid Number of Fleeces and Weight, and the Name and Abode of the Per<g ref="char:EOLhyphen"/>ſons to whom it is Diſpoſed, and the Place to which it is intended to be Carried, and to take a Certificate from the Officer who firſt Entred the ſame, upon the Penalty of Forfeiting all the Wooll as ſhall not be ſo Entred, or otherwiſe diſpoſed of; The Owner alſo to be Liable to the Penalty of Three Shillings for every Pound Weight of all ſuch Wooll, as if the ſame had been actually Tranſported; And that no Perſons Reſiding within Fifteen Miles of the Sea in the ſaid Counties of <hi>Kent</hi> and <hi>Suſſex,</hi> ſhall Buy any Wooll before they Enter into Bond to the Kings Majeſty with Sureties, That ſuch Wooll ſhall not be Sold by them to any Perſon within Fifteen Miles of the Sea; And in Caſe any Wooll be found Carrying toward the Sea ſide in the ſaid Counties, unleſs ſuch Wooll be firſt Entred and Security given, the ſame ſhall be Forfeited, and the Perſon or Perſons Offending therein, ſhall alſo Forfeit Three Shillings for every Pound Weight of all ſuch Wooll. And it is there<g ref="char:EOLhyphen"/>by further Enacted, That no Wooll Removed from the Place where it was firſt Houſed or Lodged after Shearing, within Ten Miles of the Sea, ſhall be Lod<g ref="char:EOLhyphen"/>ged after the firſt Removing within Fifteen Miles of the Sea in the ſaid Counties, upon Pain of Forfeiting all ſuch Wooll, if found, but if Carried away, then the Owners of the ſaid Wooll to Forfeit, for every Pound Weight, the Sum of Three Shillings; And that all Perſons that ſhall Lay, or Cauſe to be Laid or Hid, any Wooll, within Fifteen Miles of the Sea, and not Entred, as aforeſaid, all ſuch Wooll ſhall be Seized and Forfeited. And whereas for the better Incouragement of Perſons who ſhall Diſcover and Proſecute ſuch Offenders, one Third Part of the ſaid Forfeitures and Penalties is by the ſaid Act given to the Vſe of His Majeſty, His Heirs and Succeſſors, and the other Two Parts to the Vſe of ſuch Perſons as ſhall Seize or Sue for the ſame. And whereas for the better Preventing the Carrying of Wooll out of this Kingdom into <hi>Scotland,</hi> It is thereby Enacted, That after the ſaid Twenty fourth day of <hi>June,</hi> every Owner of Wooll Shorn, Laid up, or Lodged within Fifteen Miles of the Borders of <hi>Scotland,</hi> ſhall give an exact Account of his, her or their Number of Fleeces, and where Lodg<g ref="char:EOLhyphen"/>ed or Houſed, to ſuch Perſons as ſhall be Appointed for that purpoſe, purſuant to the Direction of an Act of Parliament made in the Firſt Year of His preſent Majeſty and the late Queen, Intituled, <hi>An Act for the better Preventing the Exportation of Wooll, and Incouraging the Woollen Manufactures of this Kingdom;</hi> and in caſe any Owner of ſuch Wooll ſhall Neglect or Refuſe to give ſuch Account, or ſhall after ſuch Notice given, Remove ſuch Wooll, or any part of it, without Licence from the Perſon who ſhall have made ſuch Entry, ſhall Forfeit Three Shillings for every Pound Weight of ſuch Wooll; and that Wooll that ſhall found within the Diſtance aforeſaid of the Borders of <hi>Scotland,</hi> not Entred, as aforeſaid, is thereby Enacted to be Forfeited, One Third Part to His Majeſty, the other Two Parts to him or them who ſhall Sue for the ſame. Notwithſtanding which good Laws, many Perſons evily Diſpoſed to the Welfare of this Kingdom, have preſumed, and do daily preſume, in defiance of His Majeſties Government and the Laws aforeſaid, not only Clandeſtinely, but by open Force and Violence, with Armed Companies of Men, to Convey and Tranſport the Commodities aforeſaid, into <hi>Scotland</hi> and Parts beyond the Seas, and alſo to Reſcue the ſame out of the Hands and Poſſeſſion of the Officers of His Majeſties Cuſtoms, and others Acting in their Aid, when by Virtue of His Majeſties Authority the ſaid Commodities have been Seized; and in Riotous and Tumultuous manner have Beaten and Wounded the ſaid Officers, and thoſe Acting in their Aſſiſtance. We therefore taking the ſame into Our Serious Conſideration, and duly weighing the evil Conſequence thereof to the Woollen Manufacture of this Kingdom; And to the end that all Perſons may be informed of the ſeveral Laws aforeſaid, and of the ſevere Penalties and Forfeitures thereby inflicted upon ſuch as ſhall be Guilty of Tranſporting of Wooll, or other Commodities aforeſaid, and of the ſeveral Ways and Methods thereby Preſcribed for Prevention of the ſame, and that all His Majeſties Loving Subjects may be Informed alſo of the ſeveral Rewards and Incourage<g ref="char:EOLhyphen"/>ments given by the ſaid Laws to ſuch as ſhall make Diſcovery of the ſaid Offences, and effectually Proſecute the Offenders for the ſame, Have thought fit, by the Advice of His Majeſties moſt Honourable Privy Council, to Iſſue this Proclamation: And We do hereby, in purſuance of the aforeſaid Laws, ſtrictly Charge, Prohibit and Command, That no manner of Wooll, Wooll-Fells, Woolen Yarn, Morthings, Shorlings, Wool-Flocks, Fullers Earth, Scouring Clay, or Tobacco-Pipe Clay, be at any time or times hereafter, by any Perſon or Perſons whatſoever, either Natural Born Subjects, Denizens, or Strangers, Exported, Tranſported, Sent or Conveyed out of this Kingdom or the Dominions aforeſaid, or any the Iſles, Ports, Creeks or Places thereof, into the Kingdom of <hi>Scotland,</hi> or any Parts beyond the Seas; And that all the Laws and Statutes now in Force againſt the Exportation of the ſaid Commodities, be in every Particular punctually Obſerved and Kept, up<g ref="char:EOLhyphen"/>on Pain of the ſevereſt Penalties, which by the Laws and Statutes of this Realm may be Inflicted upon the Offenders themſelves, their Aiders, Procurers, Abetters, or Favourers. And We do hereby Declare, That We will cauſe to be effectually put in Execution the Laws and Statutes aforeſaid, and that the Penalties thereby Accruing ſhall be exacted as by Law they may. And We do hereby Declare, That all Aſſiſtance and Incouragement ſhall be Given by the Commiſſioners of His Maje<g ref="char:EOLhyphen"/>ſties Cuſtoms, and others His Majeſties Officers, in the Recovery of ſuch Rewards as are Given by the ſaid Laws to ſuch Perſons who ſhall Diſcovers and Sue for the ſame. And We do hereby ſtrictly Charge and Command all His Majeſties Officers of the Cuſtoms, and others, who ſhall be any ways Imployed or Intruſted in the Diſco<g ref="char:EOLhyphen"/>vering and Proſecuting the ſaid Offences, That they do uſe their utmoſt Diligence in the Diſcharge of their ſaid Truſt, under the Pain of Incurring His Majeſties high Diſpleaſure. And We do hereby ſtrictly Charge and Command all His Majeſties Officers and Miniſters to be Aiding and Aſſiſting to the Officers of the Cuſtoms, and others duly Authorized to put in Execution the ſaid Laws, and all others Acting in their Aid.</p>
+            <closer>
+               <dateline>Given at <hi>Whitehall,</hi> 
+                  <date>the Twenty ninth Day of <hi>September,</hi> 1698. In the Tenth Year of His Majeſties Reign.</date>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb,</hi> deceas'd, Printers to the Kings moſt Excellent Majeſty. 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
